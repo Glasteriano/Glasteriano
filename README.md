@@ -1,10 +1,10 @@
 # Hallå allesammans 🤙
 
-#### - 👋 Hi, I’m @Glæsteriano
-#### - 👀 I’m interested in AI, ML, DL, Big Data focused on financial data
-#### - 🌱 I’m currently learning Python
+### - 👋 Hi, I’m @Glæsteriano
+### - 👀 I’m interested in AI, ML, DL, Big Data focused on financial data
+### - 🌱 I’m currently learning Python
 
-#### As I'm new at programing this account will show my progress in it, so gonna post every relevant development rather complex or not
+### As I'm new at programing this account will show my progress in it, so gonna post every relevant development rather complex or not
 
 ##
 
