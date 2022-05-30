@@ -1,6 +1,6 @@
-# Hallå allesammans 🤙
+# Hallå allesammans! 🤙
 
-### - 👋 Hi, I’m @Glæsteriano
+### - 👋 Hi, I’m Glæsteriano
 ### - 👀 I’m interested in AI, ML, DL, Big Data focused on financial data
 ### - 🌱 I’m currently learning Python
 
