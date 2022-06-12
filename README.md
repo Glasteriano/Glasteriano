@@ -10,9 +10,11 @@
 
 </div>
 <div style="display: inline_block"><br>
-<img height="60" width="60" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+<img height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
 <img height='60' width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
-</div>          
+</div>
+
+<img height='120' width='120' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original-wordmark.svg" />
           
 <!---
 Glasteriano/Glasteriano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
