@@ -15,6 +15,13 @@
 </div>
 
 <img height='120' width='120' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original-wordmark.svg" />
+
+## My rank on CodeWars
+
+</div>
+<div style="display: inline_block"><br>
+<img height='40' width="400" src="https://www.codewars.com/users/Gl%C3%A6steriano/badges/large" />
+</div>          
           
 <!---
 Glasteriano/Glasteriano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
