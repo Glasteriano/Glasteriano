@@ -3,6 +3,7 @@
 ### - 👋 Hi, I’m Glæsteriano
 ### - 👀 I’m interested in AI, ML, DL, Big Data focused on financial data
 ### - 🌱 I’m currently learning Python
+### - <img height='25' width='25' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /> My LinkedIn - www.linkedin.com/in/rafael-pôrto/
 
 ### As I'm new at programing, this account will show my progress in it, so gonna post every relevant development rather complex or not
 
