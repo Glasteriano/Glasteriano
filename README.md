@@ -1,33 +1,30 @@
-# Hallå allesammans! 🤙
+<h1 align="center">Hallå allesammans! 🤙</h2>
 
-### - 👋 Hi, I’m Glæsteriano
-### - 👀 I’m interested in AI, ML, DL, Big Data focused on financial data
-### - 🌱 I’m currently learning Python
-### - <img height='25' width='25' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /> LinkedIn - www.linkedin.com/in/rafael-pôrto/
+<div align="center"; margin-bottom: 20px;">
+          👋 Olá, me chamo Rafael<br><br>
+          👀 Estou estudando Ciência de Dados na Faculdade e aprendendo Desenvolvimento de Software focado no Backend pela Cubos Academy!!!<br><br>
+           Como programador em desenvolvimento, postarei meu progresso por aqui<br><br>
 
-### As I'm new at programing, this account will show my progress in it, so gonna post every relevant development rather complex or not
-
-##
-
-</div>
-<div style="display: flex"><br>
-<img height="65" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
-<img height='65' width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img height='65' width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" /> 
-<img height='65' width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
-<img height='65' width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
-<img height='65' width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
-          
-          
-          
-          
+<a href="https://www.linkedin.com/in/rafael-porto/" class="social-icon" style="text-decoration: none;">
+          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
 </div>
 
-## My rank on CodeWars
+<h2 align="center">Tecnologias que estudo/estudei</h2>
 
+<div align="center" style="display: inline_block; margin-bottom: 20px;">
+          <img height="65" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+          <img height='65' width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+          <img height='65' width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" /> 
+          <img height='65' width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
+          <img height='65' width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
+          <img height='65' width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />        
 </div>
-<div style="display: inline_block"><br>
-<img height='40' width="400" src="https://www.codewars.com/users/Gl%C3%A6steriano/badges/large" />
+
+<h2 align="center">Meu ranque no CodeWars</h2>
+
+<div align="center" style="display: inline_block; margin-bottom: 20px;">
+          <img height='40' width="400" src="https://www.codewars.com/users/Gl%C3%A6steriano/badges/large" />
 </div>          
           
 <!---
