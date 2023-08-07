@@ -1,9 +1,9 @@
-<h1 align="center">Hallå allesammans! 🤙</h2>
+<h1 align="center">Hallå allesammans! 🤙</h1>
 
 <div align="center"; margin-bottom: 20px;">
-          👋 Olá, me chamo Rafael<br><br>
-          👀 Estou estudando Ciência de Dados na Faculdade e aprendendo Desenvolvimento de Software focado no Backend pela Cubos Academy!!!<br><br>
-           Como programador em desenvolvimento, postarei meu progresso por aqui<br><br>
+          <h3>👋 Olá, me chamo Rafael</h3>
+          <h3>👀 Estou estudando Ciência de Dados na Faculdade e aprendendo Desenvolvimento de Software focado no Backend pela Cubos Academy!!!</h3>
+          <h3>Como programador em desenvolvimento, postarei meu progresso por aqui</h3>
 
 <a href="https://www.linkedin.com/in/rafael-porto/" class="social-icon" style="text-decoration: none;">
           <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
